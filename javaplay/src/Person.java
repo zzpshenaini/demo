@@ -38,6 +38,7 @@ public class Person {
 
     public void eat(String food){
         System.out.println("我正在吃"+food);
+        System.out.println("慢点吃别噎死");
     }
 
     public void sayHello(){
@@ -49,5 +50,6 @@ public class Person {
         person.name="小明";
         person.eat("noodle");
         person.sayHello();
+        System.out.println("这是2.0了");
     }
 }
