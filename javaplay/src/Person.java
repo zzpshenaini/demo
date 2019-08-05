@@ -51,5 +51,6 @@ public class Person {
         person.eat("noodle");
         person.sayHello();
         System.out.println("这是2.0了");
+        System.out.println("我是3.0");
     }
 }
